@@ -1,0 +1,5 @@
+background-image: linear-gradient(#F72648, #FCCB3C);
+
+https://codepen.io/jorgesanes10/pen/QdMEXr
+
+https://codepen.io/katywellington91/pen/PoGVzwZ
